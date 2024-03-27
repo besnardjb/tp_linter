@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/home/unclefreedd/Bureau/tp_linter/ex2",
+    "file": "/home/unclefreedd/Bureau/tp_linter/ex2/main.c",
+    "output": "/home/unclefreedd/Bureau/tp_linter/ex2/main"
+  }
+]
